@@ -1,0 +1,9 @@
+D:\MahmudCode\SalaryCalculatorDemoApp\SalaryCalculatorDemoApp\bin\Debug\SalaryCalculatorDemoApp.exe.config
+D:\MahmudCode\SalaryCalculatorDemoApp\SalaryCalculatorDemoApp\bin\Debug\SalaryCalculatorDemoApp.exe
+D:\MahmudCode\SalaryCalculatorDemoApp\SalaryCalculatorDemoApp\bin\Debug\SalaryCalculatorDemoApp.pdb
+D:\MahmudCode\SalaryCalculatorDemoApp\SalaryCalculatorDemoApp\obj\Debug\SalaryCalculatorDemoApp.csprojResolveAssemblyReference.cache
+D:\MahmudCode\SalaryCalculatorDemoApp\SalaryCalculatorDemoApp\obj\Debug\SalaryCalculatorDemoApp.SalaryCalculatorUI.resources
+D:\MahmudCode\SalaryCalculatorDemoApp\SalaryCalculatorDemoApp\obj\Debug\SalaryCalculatorDemoApp.Properties.Resources.resources
+D:\MahmudCode\SalaryCalculatorDemoApp\SalaryCalculatorDemoApp\obj\Debug\SalaryCalculatorDemoApp.csproj.GenerateResource.Cache
+D:\MahmudCode\SalaryCalculatorDemoApp\SalaryCalculatorDemoApp\obj\Debug\SalaryCalculatorDemoApp.exe
+D:\MahmudCode\SalaryCalculatorDemoApp\SalaryCalculatorDemoApp\obj\Debug\SalaryCalculatorDemoApp.pdb
